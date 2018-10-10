@@ -1,6 +1,7 @@
 /* Encoder Library - TwoKnobs Example
  * http://www.pjrc.com/teensy/td_libs_Encoder.html
    This example code is in the public domain.*/
+   // 参考サイト http://project59.blog.fc2.com/blog-entry-385.html
 
 #include <Encoder.h> 
   /*エンコーダのライブラリ,別機で書き込む場合,IDEの
